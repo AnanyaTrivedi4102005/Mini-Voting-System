@@ -1,7 +1,7 @@
 # Mini-Voting-System
-A mini voting system in C is a simple program that simulates a voting process, allowing users to vote for predefined candidates and view the results. This program demonstrates the use of basic programming constructs such as arrays, loops, conditional statements, and functions.
+A **Mini Voting System** in **C** is a simple program that simulates a voting process, allowing users to vote for predefined candidates and view the results. This program demonstrates the use of basic programming constructs such as arrays, loops, conditional statements, and functions.
 
-Key Features
+Key Features: 
 - Candidate Registration: The program defines a list of candidates for the election.
 - Voting Process: Each voter is allowed to cast one vote for a candidate.
 - Vote Counting: The program tallies votes for each candidate.
